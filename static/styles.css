@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+  padding: 20px;
+}
+.container {
+  width: 400px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+input[type="text"] {
+  width: 70%;
+  padding: 8px;
+}
+button {
+  padding: 8px 12px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  padding: 10px 5px;
+  border-bottom: 1px solid #ddd;
+}
+li a {
+  float: right;
+  color: red;
+  text-decoration: none;
+}
